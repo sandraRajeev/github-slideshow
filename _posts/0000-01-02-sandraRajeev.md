@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hi! My Name is Sandra Rajeev
 Use the left arrow to go back!
  
